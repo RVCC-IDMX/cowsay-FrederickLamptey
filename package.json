@@ -1,0 +1,24 @@
+{
+  "name": "cowsay-fredericklamptey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "date-fns": "^2.29.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/cowsay-FrederickLamptey.git"
+  },
+  "keywords": [],
+  "author": "Frederick Lamptey <flam5343@Stu.raritanval.edu> (https://github.com/RVCC-IDMX/cowsay-FrederickLamptey)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/cowsay-FrederickLamptey/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-FrederickLamptey#readme"
+}
