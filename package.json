@@ -3,12 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "date-fns": "^2.29.2"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "help": "cowsay -h",
+    "Cows": "cowsay -l",
+    "cowsay": "cowsay"
   },
   "repository": {
     "type": "git",
@@ -20,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/cowsay-FrederickLamptey/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/cowsay-FrederickLamptey#readme"
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-FrederickLamptey#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
